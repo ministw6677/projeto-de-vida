@@ -1,0 +1,13 @@
+:root{
+    ---cor-de-fundo: #e71a1a;
+    ---verde: #30dd30;
+    ---branco: #efff;
+    ---botao-ativo: #3a3a3a;
+    ---botao-inativo: rgba(58, 55, 94, 0,5);
+    ---texto-fundo: rgba(58, 55, 94, 0,3);
+}
+body{
+    background-color: var(---cor-de-fundo);
+    color: var(---branco);
+    font-family: Arial, Helvetica, sans-serif;
+}
